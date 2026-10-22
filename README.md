@@ -34,7 +34,7 @@ I'm Céline, a 42 student building products where **AI acts at the right moment*
       <p><sub><b>Hackathon · team project</b><br>Claude Code · MCP · Grist · Keycloak</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/paragsarvoday/Spark"><img src="https://raw.githubusercontent.com/paragsarvoday/Spark/main/docs/metafore_before.gif" alt="Spark (Lumen Claims): video scan of a room before a loss" width="100%"></a>
+      <a href="https://github.com/paragsarvoday/Spark/blob/main/demo-video/Spark_Demo_Final.mp4"><img src="assets/spark.gif" alt="Spark demo: before/after scans, the agent reasons step by step, asks one question and proposes the payout" width="100%"></a>
       <h3><a href="https://github.com/paragsarvoday/Spark">Spark · Lumen Claims</a></h3>
       <p><sub>Film a room in 30 seconds. After a theft or a loss, a Claude agent works like a loss adjuster: it compares the two scans, finds what's missing, prices it with sources, reads the policy and drafts the settlement. Against a single LLM call: 0 false alarms versus 6. <b>My role:</b> the demo video, built in code with Remotion and a synced ElevenLabs voice-over.</sub></p>
       <p><sub><b>Accel AI Innovate Paris · 22 Oct 2026 · <a href="https://github.com/paragsarvoday/Spark/blob/main/demo-video/Spark_Demo_Final.mp4">demo video</a></b><br>Team: paragsarvoday, Edouard Foussier, NewbieCae · Python · Claude · pgvector · Modal · Remotion</sub></p>
