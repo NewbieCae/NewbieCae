@@ -16,13 +16,15 @@ I'm Céline, a 42 student building products where **AI acts at the right moment*
     <td width="50%" valign="top">
       <a href="https://github.com/Bielorretto/bayscreen"><img src="assets/des-que.gif" alt="Dès que: one sentence in screenpipe, and the form fills itself in" width="100%"></a>
       <h4><a href="https://github.com/Bielorretto/bayscreen">Dès que</a></h4>
-      <p><sub>An "as soon as X, do Y" sentence written in screenpipe becomes a reflex: check an article's sources as soon as you leave Pages, fill in a form as soon as you open it, recall during a video call a price you saw on screen, cited with the time and the app. <b>My role:</b> coordinating the team and its AI agents, memory features built with Claude Code, real end-to-end testing, and the product through to the demo (use cases, pitch, video).</sub></p>
+      <p><sub>Write "as soon as X, do Y" in screenpipe, and an agent with screen memory acts at the right moment.</sub></p>
+      <details><summary><sub>Read more</sub></summary><sub>An "as soon as X, do Y" sentence written in screenpipe becomes a reflex: check an article's sources as soon as you leave Pages, fill in a form as soon as you open it, recall during a video call a price you saw on screen, cited with the time and the app. <b>My role:</b> coordinating the team and its AI agents, memory features built with Claude Code, real end-to-end testing, and the product through to the demo (use cases, pitch, video).</sub></details>
       <p><sub>TypeScript · Bun · Claude</sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/NewbieCae/FIREBREAK"><img src="https://raw.githubusercontent.com/NewbieCae/FIREBREAK/main/assets/video/firebreak-demo-thumbnail.png" alt="FIREBREAK: 3-minute demo" width="100%"></a>
       <h4><a href="https://github.com/NewbieCae/FIREBREAK">FIREBREAK</a></h4>
-      <p><sub>A firewall for supply chains: when a partner is compromised, only the operations that depend on it are quarantined, instead of freezing everything. In simulation (500 worlds): 9.6 healthy operations wrongly blocked, versus 43.2 with the standard approach. <b>My role:</b> product strategy and solution design: challenging the initial assumptions, finding the weak spots, strengthening the value proposition and the functional architecture.</sub></p>
+      <p><sub>A supply-chain firewall: quarantine only what depends on a compromised partner, not everything.</sub></p>
+      <details><summary><sub>Read more</sub></summary><sub>A firewall for supply chains: when a partner is compromised, only the operations that depend on it are quarantined, instead of freezing everything. In simulation (500 worlds): 9.6 healthy operations wrongly blocked, versus 43.2 with the standard approach. <b>My role:</b> product strategy and solution design: challenging the initial assumptions, finding the weak spots, strengthening the value proposition and the functional architecture.</sub></details>
       <p><sub><b><a href="https://firebreak-zeta.vercel.app/app/">live demo</a></b> · Python · Ed25519 · Solidity</sub></p>
     </td>
   </tr>
@@ -30,13 +32,15 @@ I'm Céline, a 42 student building products where **AI acts at the right moment*
     <td width="50%" valign="top">
       <a href="https://github.com/NewbieCae/mission-controle"><img src="assets/mission-control.svg" alt="Mission Control: the team conversation drives a shared AI agent that acts in Docs and Grist" width="100%"></a>
       <h4><a href="https://github.com/NewbieCae/mission-controle">Mission Control</a></h4>
-      <p><sub>An AI agent shared by a team: it understands conversations in Buzz (Tchap) and acts in Docs and Grist from La Suite numérique. <b>My role:</b> product lead, functional design, demo scenarios and testing, and steering part of the implementation with AI agents.</sub></p>
+      <p><sub>A shared AI agent that turns team conversations into actions in Docs and Grist.</sub></p>
+      <details><summary><sub>Read more</sub></summary><sub>An AI agent shared by a team: it understands conversations in Buzz (Tchap) and acts in Docs and Grist from La Suite numérique. <b>My role:</b> product lead, functional design, demo scenarios and testing, and steering part of the implementation with AI agents.</sub></details>
       <p><sub>Claude Code · MCP · Grist · Keycloak</sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/paragsarvoday/Spark/blob/main/demo-video/Spark_Demo_Final.mp4"><img src="assets/spark.gif" alt="Spark demo: before/after scans, the agent reasons step by step, asks one question and proposes the payout" width="100%"></a>
       <h4><a href="https://github.com/paragsarvoday/Spark">Spark · Lumen Claims</a></h4>
-      <p><sub>Film a room in 30 seconds. After a theft or a loss, a Claude agent works like a loss adjuster: it compares the two scans, finds what's missing, prices it with sources, reads the policy and drafts the settlement. Against a single LLM call: 0 false alarms versus 6. <b>My role:</b> the demo video, built in code with Remotion and a synced ElevenLabs voice-over.</sub></p>
+      <p><sub>Film a room; after a loss, a Claude agent finds what's missing, prices it and drafts the settlement.</sub></p>
+      <details><summary><sub>Read more</sub></summary><sub>Film a room in 30 seconds. After a theft or a loss, a Claude agent works like a loss adjuster: it compares the two scans, finds what's missing, prices it with sources, reads the policy and drafts the settlement. Against a single LLM call: 0 false alarms versus 6. <b>My role:</b> the demo video, built in code with Remotion and a synced ElevenLabs voice-over.</sub></details>
       <p><sub><b><a href="https://github.com/paragsarvoday/Spark/blob/main/demo-video/Spark_Demo_Final.mp4">demo video</a></b> · Python · Claude · pgvector · Modal · Remotion</sub></p>
     </td>
   </tr>
@@ -53,7 +57,8 @@ I'm Céline, a 42 student building products where **AI acts at the right moment*
     <td width="50%" valign="top">
       <a href="https://github.com/NewbieCae/Amazing"><img src="assets/amazing.svg" alt="Perfect maze generated by DFS, with its shortest path" width="100%"></a>
       <h4><a href="https://github.com/NewbieCae/Amazing">A-Maze-ing</a></h4>
-      <p><sub>Perfect or imperfect maze generator (DFS) with a hidden "42", shortest path (BFS), terminal and Pygame display, and a reusable Python package.</sub></p>
+      <p><sub>Maze generator (DFS) with shortest path (BFS), terminal and Pygame display.</sub></p>
+      <details><summary><sub>Read more</sub></summary><sub>Perfect or imperfect maze generator (DFS) with a hidden "42", shortest path (BFS), terminal and Pygame display, and a reusable Python package.</sub></details>
       <p><sub><b>42 project · no AI</b><br>Python · Pygame</sub></p>
     </td>
   </tr>
