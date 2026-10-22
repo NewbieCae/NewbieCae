@@ -5,45 +5,56 @@
 
 <br>
 
-🇫🇷 Moi, c'est Céline. Étudiante à 42, je conçois des produits où **l'IA agit au bon moment**, et je pilote leur construction avec des agents: je pars du besoin, je définis le produit, puis j'oriente, je teste et je valide. Mes projets naissent souvent en hackathon, et finissent avec une démo et des résultats mesurés.
-
-🇬🇧 I'm Céline, a 42 student building products where **AI acts at the right moment**. I lead their build with AI agents: I start from the user need, shape the product, then steer, test and validate. Most of my projects start at hackathons and end with a demo and measured results.
+I'm Céline, a 42 student building products where **AI acts at the right moment**. I lead their build with AI agents: I start from the user need, shape the product, then steer, test and validate. Most of my projects start at hackathons and end with a demo and measured results.
 
 <br>
 
-## Projets phares · Featured
+## I lead AI agents
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Bielorretto/bayscreen"><img src="assets/des-que.gif" alt="Dès que : une phrase dans screenpipe, et le formulaire se remplit tout seul" width="100%"></a>
+      <a href="https://github.com/Bielorretto/bayscreen"><img src="assets/des-que.gif" alt="Dès que: one sentence in screenpipe, and the form fills itself in" width="100%"></a>
       <h3><a href="https://github.com/Bielorretto/bayscreen">Dès que</a></h3>
-      <p><sub>🇫🇷 Une phrase « dès que X, fais Y » écrite dans screenpipe devient un réflexe : vérifier les sources d'un article dès qu'on quitte Pages, remplir un formulaire dès qu'on l'ouvre, retrouver en visio un prix vu à l'écran, cité avec l'heure et l'appli. <b>Mon rôle :</b> coordination de l'équipe et de ses agents IA, fonctionnalités de mémoire pilotées avec Claude Code, tests réels de bout en bout, et le produit jusqu'à la démo (cas d'usage, pitch, vidéo).</sub></p>
-      <p><sub>🇬🇧 Turns a plain sentence into an agent that fires at the right moment, with screen memory. My role: team and AI-agent coordination, memory features built with Claude Code, end-to-end testing, product and demo.</sub></p>
-      <p><sub><b>Hackathon screenpipe « Build Agents That Remember » · 42 Paris · oct. 2026</b><br>Équipe / team : Abel Melman, Bielorretto, NewbieCae · TypeScript · Bun · Claude</sub></p>
+      <p><sub>An "as soon as X, do Y" sentence written in screenpipe becomes a reflex: check an article's sources as soon as you leave Pages, fill in a form as soon as you open it, recall during a video call a price you saw on screen, cited with the time and the app. <b>My role:</b> coordinating the team and its AI agents, memory features built with Claude Code, real end-to-end testing, and the product through to the demo (use cases, pitch, video).</sub></p>
+      <p><sub><b>screenpipe hackathon "Build Agents That Remember" · 42 Paris · Oct 2026</b><br>Team: Abel Melman, Bielorretto, NewbieCae · TypeScript · Bun · Claude</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/NewbieCae/FIREBREAK"><img src="https://raw.githubusercontent.com/NewbieCae/FIREBREAK/main/assets/video/firebreak-demo-thumbnail.png" alt="FIREBREAK : démo de 3 minutes" width="100%"></a>
+      <a href="https://github.com/NewbieCae/FIREBREAK"><img src="https://raw.githubusercontent.com/NewbieCae/FIREBREAK/main/assets/video/firebreak-demo-thumbnail.png" alt="FIREBREAK: 3-minute demo" width="100%"></a>
       <h3><a href="https://github.com/NewbieCae/FIREBREAK">FIREBREAK</a></h3>
-      <p><sub>🇫🇷 Le pare-feu des supply chains : quand un partenaire est compromis, seules les opérations qui en dépendent sont mises en quarantaine, au lieu de tout geler. En simulation (500 mondes) : 9,6 opérations saines bloquées à tort, contre 43,2 avec l'approche classique. <b>Mon rôle :</b> stratégie produit et conception de la solution : challenger les hypothèses de départ, repérer les failles, renforcer la proposition de valeur et l'architecture fonctionnelle.</sub></p>
-      <p><sub>🇬🇧 Supply-chain firewall: quarantine only what depends on the compromised partner. My role: product strategy and AI solution design, stress-testing the initial idea into a sharper, more defensible product.</sub></p>
-      <p><sub><b>Secure Horizons 2026 · équipe 14 · <a href="https://firebreak-zeta.vercel.app/app/">démo en ligne</a></b><br>Python · Ed25519 · Solidity</sub></p>
+      <p><sub>A firewall for supply chains: when a partner is compromised, only the operations that depend on it are quarantined, instead of freezing everything. In simulation (500 worlds): 9.6 healthy operations wrongly blocked, versus 43.2 with the standard approach. <b>My role:</b> product strategy and solution design: challenging the initial assumptions, finding the weak spots, strengthening the value proposition and the functional architecture.</sub></p>
+      <p><sub><b>Secure Horizons 2026 · team 14 · <a href="https://firebreak-zeta.vercel.app/app/">live demo</a></b><br>Python · Ed25519 · Solidity</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/NewbieCae/mission-controle"><img src="assets/mission-control.svg" alt="Mission Control : la conversation d'équipe pilote un agent IA partagé qui agit dans Docs et Grist" width="100%"></a>
+      <a href="https://github.com/NewbieCae/mission-controle"><img src="assets/mission-control.svg" alt="Mission Control: the team conversation drives a shared AI agent that acts in Docs and Grist" width="100%"></a>
       <h3><a href="https://github.com/NewbieCae/mission-controle">Mission Control</a></h3>
-      <p><sub>🇫🇷 Un agent IA partagé par une équipe, qui comprend les conversations dans Buzz (Tchap) et agit dans Docs et Grist de La Suite numérique. <b>Mon rôle :</b> Product Lead, conception fonctionnelle, scénarios de démo et tests, et pilotage d'une partie de l'implémentation avec des agents IA.</sub></p>
-      <p><sub>🇬🇧 A shared AI agent that turns team conversations into actions. My role: product lead, functional design, demo scenarios and testing, AI-assisted implementation.</sub></p>
-      <p><sub><b>Hackathon · projet d'équipe</b><br>Claude Code · MCP · Grist · Keycloak</sub></p>
+      <p><sub>An AI agent shared by a team: it understands conversations in Buzz (Tchap) and acts in Docs and Grist from La Suite numérique. <b>My role:</b> product lead, functional design, demo scenarios and testing, and steering part of the implementation with AI agents.</sub></p>
+      <p><sub><b>Hackathon · team project</b><br>Claude Code · MCP · Grist · Keycloak</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/NewbieCae/Amazing"><img src="assets/amazing.svg" alt="Labyrinthe parfait généré par DFS, avec son plus court chemin" width="100%"></a>
+      <a href="https://github.com/paragsarvoday/Spark"><img src="https://raw.githubusercontent.com/paragsarvoday/Spark/main/docs/metafore_before.gif" alt="Spark (Lumen Claims): video scan of a room before a loss" width="100%"></a>
+      <h3><a href="https://github.com/paragsarvoday/Spark">Spark · Lumen Claims</a></h3>
+      <p><sub>Film a room in 30 seconds. After a theft or a loss, a Claude agent works like a loss adjuster: it compares the two scans, finds what's missing, prices it with sources, reads the policy and drafts the settlement. Against a single LLM call: 0 false alarms versus 6. <b>My role:</b> the demo video, built in code with Remotion and a synced ElevenLabs voice-over.</sub></p>
+      <p><sub><b>Accel AI Innovate Paris · 22 Oct 2026 · <a href="https://github.com/paragsarvoday/Spark/blob/main/demo-video/Spark_Demo_Final.mp4">demo video</a></b><br>Team: paragsarvoday, Edouard Foussier, NewbieCae · Python · Claude · pgvector · Modal · Remotion</sub></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## I also code without them
+
+<p><sub>42 school projects: no AI assistant, peer evaluation.</sub></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NewbieCae/Amazing"><img src="assets/amazing.svg" alt="Perfect maze generated by DFS, with its shortest path" width="100%"></a>
       <h3><a href="https://github.com/NewbieCae/Amazing">A-Maze-ing</a></h3>
-      <p><sub>🇫🇷 Générateur de labyrinthes parfaits ou imparfaits, avec un « 42 » caché, le plus court chemin, un affichage terminal et Pygame, et un paquet Python réutilisable.</sub></p>
-      <p><sub>🇬🇧 Maze generator (DFS) with shortest path (BFS), terminal and Pygame display, packaged as a wheel.</sub></p>
-      <p><sub><b>Projet 42 · en binôme</b><br>Python · Pygame</sub></p>
+      <p><sub>Perfect or imperfect maze generator (DFS) with a hidden "42", shortest path (BFS), terminal and Pygame display, and a reusable Python package.</sub></p>
+      <p><sub><b>42 project · pair work · no AI</b><br>Python · Pygame</sub></p>
     </td>
   </tr>
 </table>
